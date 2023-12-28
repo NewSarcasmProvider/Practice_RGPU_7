@@ -6,16 +6,9 @@
 
 ЦРБ
 ```html
-<p style="text-align: center;">
-                    <strong><span style="font-size:14px;">Регистрация на мероприятия:</span></strong><br/>
-                    <span style="font-size:11px;"><em>Пожалуйста, выберите мероприятие из списка и нажмите кнопку "Зарегистрироваться"</em>
-                    </span>
-                </p>
-                <span style="font-size:14px;"><script type="text/javascript" async="async" defer="defer" charset="UTF-8"
-                                                      src="https://timepad.ru/js/tpwf/loader/min/loader.js"
-                                                      data-timepad-customized="43850"
-                                                      data-timepad-apidomain="timepad.ru"
-                                                      data-timepad-widget-v2="event_list3"></script></span>
+<p style="text-align: center;"><strong><span style="font-size:14px;">Регистрация на мероприятия:</span></strong><em><span style="font-size:14px;"></span></em><span style="font-size:11px;"><br />
+<em>​​​​​​​Пожалуйста, выберите мероприятие из списка и нажмите кнопку "Зарегистрироваться"</em></span></p>
+<span style="font-size:14px;"><script type="text/javascript" async="async" defer="defer" charset="UTF-8" src="https://timepad.ru/js/tpwf/loader/min/loader.js" data-timepad-customized="43850" data-timepad-apidomain="timepad.ru" data-timepad-widget-v2="event_list3"></script></span>
 ```
 
 Библиотека Ленина

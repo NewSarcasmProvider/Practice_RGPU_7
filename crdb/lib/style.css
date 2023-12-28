@@ -1,0 +1,6 @@
+.widget-container {
+    max-width: 600px;
+    margin: auto;
+    overflow-y: auto;
+    max-height: 1020px;
+}
